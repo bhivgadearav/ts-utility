@@ -1,9 +1,9 @@
 {
   "name": "@aravbhivgade/ts-utility",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "private": false,
   "description": "this package lets you use pick, partial, read only, records, maps and exclude typescript functions in a simple manner that's also not hard to intepret by other developers",
-  "main": "index.js",
+  "main": "dist/index.js",
   "scripts": {
     "build": "tsc"
   },
